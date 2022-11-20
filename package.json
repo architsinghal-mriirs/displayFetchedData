@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "this is very amazing package",
+  "main": "FetchApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon FetchApi.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "chance": "^1.1.9",
+    "cors": "2.8.1",
+    "express": "~4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "author": "Sumit",
+  "license": "ISC"
+}
