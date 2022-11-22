@@ -5,7 +5,7 @@
   "main": "FetchApi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon FetchApi.js"
+    "start": "nodemon src/FetchApi.js"
   },
   "dependencies": {
     "axios": "^1.1.3",
